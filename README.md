@@ -121,6 +121,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 ## Game Design 🎮
 
+- [VNovels](https://vnovels.com) (Proprietary, Sign Up, Freemium): Browser-based visual novel maker with a graph/scene editor, an AI story assistant, and AI image and audio generation.
 ➡️ You want to generate game mechanics, game ideas, or other other components of your game (characters, story, items, etc.).
 
 - [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
